@@ -19,7 +19,7 @@
     "url": "git://github.com/mongodb-js/hadron-ipc.git"
   },
   "dependencies": {
-    "debug": "^2.2.0",
+    "debug": "^2.4.3",
     "is-electron-renderer": "^2.0.0",
     "is-promise": "^2.1.0",
     "lodash": "^4.11.1"
